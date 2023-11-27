@@ -1,0 +1,123 @@
+name: app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #for using cupertino icons
+  cupertino_icons: ^1.0.2
+  # for using launcher icons
+  flutter_launcher_icons: ^0.13.1
+  #for integrating firebase
+  firebase_core: ^2.15.1
+  #for handling firebase authentication
+  firebase_auth: ^4.9.0
+  #for handling google sign in
+  google_sign_in: ^6.1.5
+  #for using shared preferences to save log in
+  shared_preferences: ^2.2.1
+  #for using cloud firestore database
+  cloud_firestore: ^4.9.1
+  #for showing images from the internet and keep them in the cache directory 
+  cached_network_image: ^3.2.3
+  # For accessing firebase messaging (Push Notification)
+  firebase_storage: ^11.2.6
+  # For picking images
+  image_picker: ^1.0.4
+  # For showing Emojis
+  emoji_picker_flutter: ^1.6.1
+  # For calling RestAPIs**
+  http: ^0.13.3
+  # For accessing firebase messaging (Push Notification)
+  firebase_messaging: ^14.6.7
+  # For creating notification channel
+  flutter_notification_channel: ^2.0.0
+  # For storing images into gallery
+  gallery_saver: ^2.3.2
+  # for using card slider
+  card_slider: ^1.0.5
+  # for using card swiper
+  card_swiper: ^3.0.1
+  # for using dropdown search
+  dropdown_search: ^5.0.6
+  flutter_typeahead: ^4.8.0
+  
+
+
+dev_dependencies:
+  flutter_lints: ^2.0.3
+  flutter_test:
+    sdk: flutter
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "images/myapp_icon1.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+
+  # For recommended coding practices
+  flutter_lints: ^2.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/chat1.png
+    - images/chat2.png
+    - images/connect.png
+    - images/google_icon.png
+    - images/networking.png
+    - images/social-network.png
+    - images/add_image1.png
+    - images/add_image2.png
+    - images/add_image3.png
+    - images/camera_icon1.png
+    - images/camera_icon2.png
+    - images/camera_icon3.png
+    - images/camera_icon4.png
+    - images/camera_icon5.png
+    - images/myapp_icon1.png
+    - images/myapp_icon2.png
+    - images/signin3d.png
+    - images/login3d.png
+    - images/womenaretalking.png
+    - images/manhasanidea.png
+    - images/welcomehuman3d.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
