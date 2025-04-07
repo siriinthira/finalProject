@@ -30,8 +30,6 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 # User Flow Map
 
-# Wireframe
-
 # Mockup
 
 <p>
@@ -52,6 +50,13 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 </p>
 
 # Usability Testing
+
+
+# Wireframe V.2
+
+# Mockup V.2
+
+# Prototype V.2
 
 
 # Use Case Diagram 
