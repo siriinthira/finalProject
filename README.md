@@ -18,13 +18,20 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 # Define
 
-# Ideate
-
 # User Persona
 
 # User Scenario
 
+# User Journey & Pain Points
+
 # User Story
+
+------------------------------------------------------------------------------------
+
+
+# Ideate
+
+# User Flow V.1
 
 # Wireframe V.1
 
@@ -46,17 +53,24 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
   <img src = "https://github.com/user-attachments/assets/d06abcf2-af98-464a-bf75-543fefe0bd2e"/>
 </p>
 
-# User Journey
+------------------------------------------------------------------------------------
 
-# User Pain Points
+# Usability Testing
 
-# User Testing, Feedback & Interview
+
+------------------------------------------------------------------------------------
+
+
+# User Flow V.2
 
 # Wireframe V.2
 
 # Mockup V.2
 
 # Prototype V.2
+
+--------------------------------------------------------------------------
+# What I Learned
 
 --------------------------------------------------------------------------
 
