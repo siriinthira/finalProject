@@ -10,7 +10,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 **3. Interact and Rate:** After engaging in a conversation or collaboration, rate the interaction using the star system. Your feedback helps others gauge the quality of connections, while also helping to build your own reputation in the community.
 
-**4. Grow Your Network:** As you engage with others, skillsX recommends more potential connections based on Consine Similarity. 
+**4. Grow Your Network:** As you engage with others, skillsX recommends more potential connections based on Cosine Similarity. 
 
 **5. Update Your Profile:** Keep your profile up-to-date with your latest achievements, skills, or interests. This allows other users to see your growth and stay current on your expertise.
 
