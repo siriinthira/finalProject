@@ -31,11 +31,11 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 # Ideate
 
-# User Flow V.1
+# User Flow v1
 
-# Wireframe V.1
+# Wireframe v1
 
-# Mockup V.1
+# Mockup v1
 <p>
   <img src = "https://github.com/user-attachments/assets/aab3aa23-a03f-4022-9cc7-a039c26ff024"/>
 </p>
@@ -48,7 +48,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
   <img src = "https://github.com/user-attachments/assets/493af292-76fd-4cdd-8092-09329f6a0286"/>
 </p>
 
-# Prototype V.1
+# Prototype v1
 <p>
   <img src = "https://github.com/user-attachments/assets/d06abcf2-af98-464a-bf75-543fefe0bd2e"/>
 </p>
@@ -61,13 +61,13 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 ------------------------------------------------------------------------------------
 
 
-# User Flow V.2
+# User Flow v2
 
-# Wireframe V.2
+# Wireframe v2
 
-# Mockup V.2
+# Mockup v2
 
-# Prototype V.2
+# Prototype v2
 
 --------------------------------------------------------------------------
 # What I Learned
