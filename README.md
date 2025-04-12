@@ -34,6 +34,9 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 --------------------------------------------------------------------------
 
+# Wireframe V.1
+
+# Mockup V.1
 <p>
   <img src = "https://github.com/user-attachments/assets/aab3aa23-a03f-4022-9cc7-a039c26ff024"/>
 </p>
@@ -46,19 +49,27 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
   <img src = "https://github.com/user-attachments/assets/493af292-76fd-4cdd-8092-09329f6a0286"/>
 </p>
 
-# Prototype
+# Prototype V.1
 <p>
   <img src = "https://github.com/user-attachments/assets/d06abcf2-af98-464a-bf75-543fefe0bd2e"/>
 </p>
 
+--------------------------------------------------------------------------
 
+# Wireframe V.2
+
+# Mockup V.2
+
+# Prototype V.2
+
+--------------------------------------------------------------------------
 
 # Use Case Diagram 
 <p>
   <img src = "https://github.com/user-attachments/assets/e1640ef7-6656-4aad-b37c-65635a812e15"/>
 </p>
 
-
+--------------------------------------------------------------------------
 # Software Architecture Design
 
 
@@ -66,23 +77,21 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
   <img src="https://github.com/user-attachments/assets/618a1832-dcb6-44d4-98ea-9b51fb79728c"/>
 </p>
 
-
-
+--------------------------------------------------------------------------
 # Database Design
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/91ae369e-a943-41cd-8b99-8eb1ed9c8e53"/>
 </p>
 
-
-
+--------------------------------------------------------------------------
 # Architecture Pattern 
 
 <p align="center">
    <strong><img src = "https://github.com/user-attachments/assets/36d485de-88d5-4c6d-8577-4750e7ab07b4"/></strong>
 </p>
 
-
+-------------------------------------------------------------------------
 # MVVM (Model-View-ViewModel)
 
 **API**: Centralized API handling and Firebase integration.
