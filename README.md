@@ -2,7 +2,7 @@
 SkillsX is an app prototype that combines networking, knowledge-sharing, and personal growth into one seamless experience. 
 
 
-# 🌐 How it Works:
+# 🧑‍🤝‍🧑 How it Works:
 
 **1. Create a Profile:** Start by creating a personal profile that outlines your skills, interests, and background. The more detailed and up-to-date your profile is, the better you’ll connect with others who share similar or complementary expertise.
 
