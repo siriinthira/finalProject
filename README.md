@@ -67,6 +67,9 @@ Profile Management (CRUD API) – Allows users to update, store, and retrieve pr
 # User Persona
 <img src = "https://github.com/user-attachments/assets/c525c2f2-c158-4dd6-8d87-c60c0e0c293c"/>
 
+<img src = "https://github.com/user-attachments/assets/d9c84047-b508-4ce7-80b9-40818cdd4a54"/>
+
+
 # User Scenario
 
 # User Journey & Pain Points
