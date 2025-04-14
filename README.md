@@ -92,9 +92,9 @@ Space for community-driven feedback and ratings.
 
 # User Persona
 
-<img src = "https://github.com/user-attachments/assets/c525c2f2-c158-4dd6-8d87-c60c0e0c293c"/>
+<img src = "https://github.com/user-attachments/assets/d52f161f-c767-41e0-93c2-a46a14533d00"/>
 
-<img src = "https://github.com/user-attachments/assets/d9c84047-b508-4ce7-80b9-40818cdd4a54"/>
+<img src = "https://github.com/user-attachments/assets/312ca849-dc81-49f4-a0f8-56431a22a394"/>
 
 
 # User Scenario
