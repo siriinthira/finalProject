@@ -98,6 +98,29 @@ Space for community-driven feedback and ratings.
 
 # User Scenario
 
+🧩 User Scenario: Korn’s Use of SkillsX
+
+Context:
+
+Korn is prepping a digital campaign for a travel brand and wants to collaborate with a designer who understands cultural nuance and modern design. He also wants to mentor upcoming marketers and build his personal brand beyond Instagram.
+
+Journey on SkillsX:
+
+Discovery: Korn logs into SkillsX and uses the “Swipe-to-Scan” feature to explore collaborators with shared creative interests and complementary skills.
+
+Matching: He sees Natthida’s profile — her Thai-modern visual style aligns with his campaign’s vibe. Her profile includes a Skill Story video where she breaks down her creative process for a past campaign.
+
+Quick Check: He taps on her Skill Card, which reveals tags like “Brand Identity,” “Cultural Design,” and “Digital Illustration,” along with endorsements and a ⭐ 4.8 collaboration rating.
+
+Connect: He uses the “Request a 15-min Chat” button to set up a virtual coffee.
+
+Post-Collab: After collaborating on the campaign, Korn and Natthida exchange feedback through the platform, boosting each other’s reputation badges.
+
+Outcome:
+
+Korn finds a reliable design partner and earns credibility points as a collaborator and mentor. He later shares a Skill Story about the campaign success, attracting more relevant connection requests.
+
+
 # User Journey & Pain Points
 
 # User Story
