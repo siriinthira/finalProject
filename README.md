@@ -91,6 +91,7 @@ A fast “connection value preview” before engaging.
 Space for community-driven feedback and ratings.
 
 # User Persona
+
 <img src = "https://github.com/user-attachments/assets/c525c2f2-c158-4dd6-8d87-c60c0e0c293c"/>
 
 <img src = "https://github.com/user-attachments/assets/d9c84047-b508-4ce7-80b9-40818cdd4a54"/>
@@ -98,7 +99,7 @@ Space for community-driven feedback and ratings.
 
 # User Scenario
 
-🧩 User Scenario: Korn’s Use of SkillsX
+🧩 **User Scenario: Korn’s Use of SkillsX**
 
 Context:
 
@@ -119,6 +120,28 @@ Post-Collab: After collaborating on the campaign, Korn and Natthida exchange fee
 Outcome:
 
 Korn finds a reliable design partner and earns credibility points as a collaborator and mentor. He later shares a Skill Story about the campaign success, attracting more relevant connection requests.
+
+🧩 **User Scenario: Natthida’s Use of SkillsX**
+
+Context:
+
+Natthida is looking to break out of her current circle and work with more clients who understand the value of cultural storytelling. She’s also curious about mentoring juniors and learning more about digital marketing strategies.
+
+Journey on SkillsX:
+
+Profile Setup: Natthida builds a dynamic profile with a visual portfolio slider, embedded Skill Stories, and selects interest tags like “Cultural Branding” and “Creative Collaboration.”
+
+Exploration: She browses the “Skill Visibility” feed, where short clips and posts from professionals like Korn appear. She finds his post on campaign storytelling insightful and follows him.
+
+Connection: Korn reaches out for a collab. She reviews his Connection Quality Score, mutual interests, and reads positive peer feedback. She accepts the chat.
+
+Growth: After the project, she receives a detailed review of her communication and visual delivery. She earns a “Collaborator Plus” badge and gets invited to a feedback circle with other creatives.
+
+Reflection: Inspired by the experience, she posts her own Skill Story — "Blending Tradition with Trend: My Design Philosophy" — which gets positive engagement and leads to more interest from aligned collaborators.
+
+Outcome:
+
+Natthida elevates her visibility, builds cross-disciplinary connections, and enhances her credibility — all while staying true to her creative values.
 
 
 # User Journey & Pain Points
