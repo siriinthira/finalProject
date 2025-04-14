@@ -94,7 +94,7 @@ Space for community-driven feedback and ratings.
 
 <img src = "https://github.com/user-attachments/assets/d52f161f-c767-41e0-93c2-a46a14533d00"/>
 
-<img src = "https://github.com/user-attachments/assets/312ca849-dc81-49f4-a0f8-56431a22a394"/>
+<img src = "https://github.com/user-attachments/assets/342c9eba-c21e-49eb-9e7f-b86cf7f3a41c"/>
 
 
 # User Scenario
