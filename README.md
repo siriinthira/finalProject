@@ -1,6 +1,33 @@
 # SkillsX
 SkillsX is an app prototype that combines networking, knowledge-sharing, and personal growth into one seamless experience. 
 
+🚀 **Project Goals (Product/Business-Focused)**
+
+These goals guide what the product aims to achieve in the market and for its users.
+
+Foster meaningful professional and skill-based relationships
+
+Build a community that helps users connect with people who truly align with their goals and values.
+
+Bridge the mentorship gap for students and early-career professionals
+
+Make it easy for emerging talent to connect with experienced mentors.
+
+Create a trusted space for self-improvement and feedback
+
+Support users in developing soft skills and self-awareness through peer feedback.
+
+Enable continuous personal growth through skill tracking
+
+Encourage users to keep profiles updated and reflect on their progress.
+
+Differentiate from traditional networking apps
+
+Provide real value through relevance, interaction quality, and discovery of non-mainstream skills.
+
+Leverage AI (e.g., Cosine Similarity) to improve user experience
+
+Use intelligent matching to surface meaningful connections without overwhelming the user.
 
 # 🧑‍🤝‍🧑 How it Works:
 
@@ -118,33 +145,7 @@ Make the platform visually engaging but lightweight
 
 Use clean UI and personalization features (e.g., dark mode, layout preferences) to enhance usability.
 
-🚀 **Project Goals (Product/Business-Focused)**
 
-These goals guide what the product aims to achieve in the market and for its users.
-
-Foster meaningful professional and skill-based relationships
-
-Build a community that helps users connect with people who truly align with their goals and values.
-
-Bridge the mentorship gap for students and early-career professionals
-
-Make it easy for emerging talent to connect with experienced mentors.
-
-Create a trusted space for self-improvement and feedback
-
-Support users in developing soft skills and self-awareness through peer feedback.
-
-Enable continuous personal growth through skill tracking
-
-Encourage users to keep profiles updated and reflect on their progress.
-
-Differentiate from traditional networking apps
-
-Provide real value through relevance, interaction quality, and discovery of non-mainstream skills.
-
-Leverage AI (e.g., Cosine Similarity) to improve user experience
-
-Use intelligent matching to surface meaningful connections without overwhelming the user.
 
 
 
