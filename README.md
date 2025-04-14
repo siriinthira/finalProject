@@ -1,7 +1,7 @@
 # SkillsX
 SkillsX is an app prototype that combines networking, knowledge-sharing, and personal growth into one seamless experience. 
 
-🚀 **Project Goals (Product/Business-Focused)**
+🚀 **Project Goals**
 
 These goals guide what the product aims to achieve in the market and for its users.
 
