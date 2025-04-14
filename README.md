@@ -91,8 +91,6 @@ Profile Management (CRUD API) – Allows users to update, store, and retrieve pr
 
 # Define
 
-✅ Define
-
 💡 **Problem Statements**
 
 Young Professionals need a way to form meaningful and relevant professional connections, because current platforms prioritize volume over quality.
