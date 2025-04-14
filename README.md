@@ -90,6 +90,64 @@ A fast “connection value preview” before engaging.
 
 Space for community-driven feedback and ratings.
 
+🎯 **Design Goals (UX/UI-Focused)**
+
+These are focused on creating a smooth, intuitive, and meaningful user experience.
+
+Create a frictionless networking experience
+
+Enable users to find and connect with relevant people effortlessly.
+
+Design transparent and intuitive reputation feedback
+
+Build a rating system that feels fair, useful, and promotes trust.
+
+Highlight skill depth and diversity beyond job titles
+
+Allow users to showcase niche and side skills through modern profile components (e.g., skill cards, skill stories).
+
+Deliver fast, context-aware connection previews
+
+Use smart visuals (badges, tags, relevance scores) to help users assess connection value at a glance.
+
+Promote authentic interactions, not just quantity
+
+Prioritize design patterns that encourage meaningful messages and collaboration over shallow networking.
+
+Make the platform visually engaging but lightweight
+
+Use clean UI and personalization features (e.g., dark mode, layout preferences) to enhance usability.
+
+🚀 **Project Goals (Product/Business-Focused)**
+
+These goals guide what the product aims to achieve in the market and for its users.
+
+Foster meaningful professional and skill-based relationships
+
+Build a community that helps users connect with people who truly align with their goals and values.
+
+Bridge the mentorship gap for students and early-career professionals
+
+Make it easy for emerging talent to connect with experienced mentors.
+
+Create a trusted space for self-improvement and feedback
+
+Support users in developing soft skills and self-awareness through peer feedback.
+
+Enable continuous personal growth through skill tracking
+
+Encourage users to keep profiles updated and reflect on their progress.
+
+Differentiate from traditional networking apps
+
+Provide real value through relevance, interaction quality, and discovery of non-mainstream skills.
+
+Leverage AI (e.g., Cosine Similarity) to improve user experience
+
+Use intelligent matching to surface meaningful connections without overwhelming the user.
+
+
+
 # User Persona
 
 <img src = "https://github.com/user-attachments/assets/d52f161f-c767-41e0-93c2-a46a14533d00"/>
