@@ -117,7 +117,7 @@ A fast “connection value preview” before engaging.
 
 Space for community-driven feedback and ratings.
 
-🎯 **Design Goals (UX/UI-Focused)**
+🎯 **Design Goals**
 
 These are focused on creating a smooth, intuitive, and meaningful user experience.
 
