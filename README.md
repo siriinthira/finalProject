@@ -66,7 +66,7 @@ Profile Management (CRUD API) – Allows users to update, store, and retrieve pr
 
 ✅ Define
 
-💡 Problem Statements
+💡 **Problem Statements**
 
 Young Professionals need a way to form meaningful and relevant professional connections, because current platforms prioritize volume over quality.
 
@@ -78,7 +78,7 @@ All users need a quick way to evaluate potential connections based on reputation
 
 Users need a mechanism for constructive feedback and validation, to help them improve communication and collaboration in a safe environment.
 
-🧠 User Needs
+🧠 **User Needs**
 
 Authentic, high-signal networking.
 
@@ -107,38 +107,38 @@ Space for community-driven feedback and ratings.
 
 # Ideate
 
-🎨 UI/UX Feature Concepts
+🎨 **UI/UX Feature Concepts**
 
-1. Skill Cards with Layers
+**1. Skill Cards with Layers**
 Interactive, modular "skill cards" that show core skills and expandable “side skills.”
 
 Color-coded or tag-based for quick scanning.
 
 Let users endorse or comment with context (e.g., "Great at breaking down complex ideas!").
 
-2. Connection Quality Score
+**2. Connection Quality Score**
 A “signal strength” metric based on mutual interests, shared goals, and interaction quality.
 
 Not based on how many people they know — but how aligned they are with you.
 
-3. Reputation Badges & Community Ratings
+**3. Reputation Badges & Community Ratings**
 Badges earned through peer reviews, mentorship activity, or verified projects.
 
 Community can give feedback on helpfulness, communication, reliability, etc.
 
-4. Swipe-to-Scan Networking
+**4. Swipe-to-Scan Networking**
 Like a Tinder for skills — users can swipe through profiles or micro-stories based on interest and alignment.
 
 Preview core skills, mutual goals, and last activity.
 
 CTA: "Request a 15-min chat" or "Follow for content"
 
-5. Feedback Loop UI
+**5. Feedback Loop UI**
 After collaborations or chats, prompt both users to leave a short review.
 
 Ratings go into private growth analytics and public reputation.
 
-6. Skill Story Feature
+**6. Skill Story Feature**
 Let users share 1-2 minute stories on how they learned a skill, what they built, or how they helped someone.
 
 Builds authenticity and connects over experience rather than titles.
