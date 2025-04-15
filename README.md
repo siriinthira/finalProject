@@ -156,6 +156,8 @@ Use clean UI and personalization features (e.g., dark mode, layout preferences) 
 
 # User Scenario
 
+<img src = "https://github.com/user-attachments/assets/09aea508-463c-42c1-b2d3-72511bdbbd9f"/>
+
 🧩 **User Scenario: Korn’s Use of SkillsX**
 
 Context:
@@ -177,6 +179,8 @@ Post-Collab: After collaborating on the campaign, Korn and Natthida exchange fee
 Outcome:
 
 Korn finds a reliable design partner and earns credibility points as a collaborator and mentor. He later shares a Skill Story about the campaign success, attracting more relevant connection requests.
+
+<img src = "https://github.com/user-attachments/assets/f58a43c7-75ac-42ae-95a4-3fb6f77246e5"/>
 
 🧩 **User Scenario: Natthida’s Use of SkillsX**
 
