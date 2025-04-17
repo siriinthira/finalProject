@@ -156,9 +156,9 @@ Use clean UI and personalization features (e.g., dark mode, layout preferences) 
 
 # User Scenario
 
-<img src = "https://github.com/user-attachments/assets/09aea508-463c-42c1-b2d3-72511bdbbd9f"/>
+<img src = "https://github.com/user-attachments/assets/38e2ccee-8acf-4dab-a599-24c1483c1cc6"/>
 
-<img src = "https://github.com/user-attachments/assets/f58a43c7-75ac-42ae-95a4-3fb6f77246e5"/>
+<img src = "https://github.com/user-attachments/assets/c37dd96b-ce7a-4a36-8c36-a23872100f70"/>
 
 🧩 **User Scenario: Korn’s Use of SkillsX**
 
