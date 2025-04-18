@@ -59,67 +59,6 @@ Use intelligent matching to surface meaningful connections without overwhelming 
 <img src = "https://github.com/user-attachments/assets/ae7369ae-53a7-449f-afd6-bbcf5ca86c83"/>
 <img src = "https://github.com/user-attachments/assets/dc5ca83c-e8a3-485f-beb9-97ccaf51c61f"/>
 
-
-
-
-# User Persona
-
-<img src = "https://github.com/user-attachments/assets/d52f161f-c767-41e0-93c2-a46a14533d00"/>
-
-<img src = "https://github.com/user-attachments/assets/342c9eba-c21e-49eb-9e7f-b86cf7f3a41c"/>
-
-
-# User Scenario
-
-<img src = "https://github.com/user-attachments/assets/cfd086c8-b699-4aab-835b-a8310b328da1"/>
-
-<img src = "https://github.com/user-attachments/assets/670bfced-3cdb-45bc-beba-1158f9338214"/>
-
-
-
-
-# User Journey & Pain Points
-
-🧭 USER JOURNEYS
-
-These journeys track the steps each persona takes while using SkillsX to reach their goals.
-
-# User Story
-
-🧑‍💼 User Story – Korn Rattanapong
-
-As a freelance digital marketer,
-I want to find credible and creatively aligned collaborators,
-So that I can execute campaigns that reflect my storytelling values while building my reputation as a mentor and strategist.
-
-As a mentor, I want to share actionable advice and receive feedback, so I can improve how I support junior marketers.
-
-As a freelancer, I want to quickly assess someone’s reliability and skill match before collaborating, so I can save time and avoid mismatches.
-
-As a creative professional, I want to highlight both my work and my side interests (like photography), so I can build authentic connections beyond just my job title.
-
-As a networker, I want to be part of a community that values meaningful interaction over follower counts or likes.
-
-
-🎨 User Story – Natthida Kanchana
-
-As a graphic designer blending Thai tradition with modern design,
-I want to showcase my unique design philosophy and find collaborators who value cultural expression,
-So that I can work on more fulfilling projects and grow my creative influence.
-
-As a designer, I want to present my portfolio in a visually engaging way, so my unique style and influences stand out.
-
-As a creative professional, I want to connect with marketers who appreciate cultural nuance, so that the projects I work on feel aligned with my identity.
-
-As an emerging talent, I want to get constructive feedback on my work and communication, so I can grow professionally and confidently.
-
-As a freelancer, I want a platform that helps me filter out low-quality or misaligned projects early in the process.
-
-
-
-------------------------------------------------------------------------------------
-
-
 # Ideate
 
 🎨 **UI/UX Feature Concepts**
@@ -157,6 +96,62 @@ Ratings go into private growth analytics and public reputation.
 Let users share 1-2 minute stories on how they learned a skill, what they built, or how they helped someone.
 
 Builds authenticity and connects over experience rather than titles.
+
+
+# User Persona
+
+<img src = "https://github.com/user-attachments/assets/d52f161f-c767-41e0-93c2-a46a14533d00"/>
+
+<img src = "https://github.com/user-attachments/assets/342c9eba-c21e-49eb-9e7f-b86cf7f3a41c"/>
+
+
+# User Scenario
+
+<img src = "https://github.com/user-attachments/assets/cfd086c8-b699-4aab-835b-a8310b328da1"/>
+
+<img src = "https://github.com/user-attachments/assets/670bfced-3cdb-45bc-beba-1158f9338214"/>
+
+
+# User Story
+
+🧑‍💼 User Story – Korn Rattanapong
+
+As a freelance digital marketer,
+I want to find credible and creatively aligned collaborators,
+So that I can execute campaigns that reflect my storytelling values while building my reputation as a mentor and strategist.
+
+As a mentor, I want to share actionable advice and receive feedback, so I can improve how I support junior marketers.
+
+As a freelancer, I want to quickly assess someone’s reliability and skill match before collaborating, so I can save time and avoid mismatches.
+
+As a creative professional, I want to highlight both my work and my side interests (like photography), so I can build authentic connections beyond just my job title.
+
+As a networker, I want to be part of a community that values meaningful interaction over follower counts or likes.
+
+
+🎨 User Story – Natthida Kanchana
+
+As a graphic designer blending Thai tradition with modern design,
+I want to showcase my unique design philosophy and find collaborators who value cultural expression,
+So that I can work on more fulfilling projects and grow my creative influence.
+
+As a designer, I want to present my portfolio in a visually engaging way, so my unique style and influences stand out.
+
+As a creative professional, I want to connect with marketers who appreciate cultural nuance, so that the projects I work on feel aligned with my identity.
+
+As an emerging talent, I want to get constructive feedback on my work and communication, so I can grow professionally and confidently.
+
+As a freelancer, I want a platform that helps me filter out low-quality or misaligned projects early in the process.
+
+
+# User Journey & Pain Points
+
+🧭 USER JOURNEYS
+
+These journeys track the steps each persona takes while using SkillsX to reach their goals.
+
+------------------------------------------------------------------------------------
+
 
 # User Flow v1
 
