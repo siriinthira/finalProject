@@ -71,23 +71,6 @@ Skill visibility is underutilized — users often have side skills or interests 
 
 People want feedback — rating systems and constructive input were seen as ways to validate and improve one’s communication or collaboration skills.
 
-🔌 **APIs**
-
-To support the seamless functionality of SkillsX, several key APIs can be leveraged:
-
-Authentication (OAuth2 / Firebase Auth) – For secure sign-in using Google, LinkedIn, or email.
-
-Natural Language Processing (NLP APIs) – Used to analyze profile content and calculate Cosine Similarity between users’ interests, skills, and bios.
-
-Messaging API (e.g., Sendbird, Twilio, Firebase Realtime Database) – Enables real-time chat between users.
-
-Rating System Backend – A lightweight backend API (Node.js/Express or Firebase Functions) to collect and display star ratings for each user interaction.
-
-Recommendation Engine (Custom / Machine Learning API) – Suggests potential connections based on similarity scoring and past user behavior.
-
-Profile Management (CRUD API) – Allows users to update, store, and retrieve profile data dynamically.
-
-
 
 # Define
 
