@@ -75,51 +75,7 @@ Use intelligent matching to surface meaningful connections without overwhelming 
 
 <img src = "https://github.com/user-attachments/assets/670bfced-3cdb-45bc-beba-1158f9338214"/>
 
-🧩 **User Scenario: Korn’s Use of SkillsX**
 
-Context:
-
-Korn is prepping a digital campaign for a travel brand and wants to collaborate with a designer who understands cultural nuance and modern design. He also wants to mentor upcoming marketers and build his personal brand beyond Instagram.
-
-Journey on SkillsX:
-
-Discovery: Korn logs into SkillsX and uses the “Swipe-to-Scan” feature to explore collaborators with shared creative interests and complementary skills.
-
-Matching: He sees Natthida’s profile — her Thai-modern visual style aligns with his campaign’s vibe. Her profile includes a Skill Story video where she breaks down her creative process for a past campaign.
-
-Quick Check: He taps on her Skill Card, which reveals tags like “Brand Identity,” “Cultural Design,” and “Digital Illustration,” along with endorsements and a ⭐ 4.8 collaboration rating.
-
-Connect: He uses the “Request a 15-min Chat” button to set up a virtual coffee.
-
-Post-Collab: After collaborating on the campaign, Korn and Natthida exchange feedback through the platform, boosting each other’s reputation badges.
-
-Outcome:
-
-Korn finds a reliable design partner and earns credibility points as a collaborator and mentor. He later shares a Skill Story about the campaign success, attracting more relevant connection requests.
-
-
-
-🧩 **User Scenario: Natthida’s Use of SkillsX**
-
-Context:
-
-Natthida is looking to break out of her current circle and work with more clients who understand the value of cultural storytelling. She’s also curious about mentoring juniors and learning more about digital marketing strategies.
-
-Journey on SkillsX:
-
-Profile Setup: Natthida builds a dynamic profile with a visual portfolio slider, embedded Skill Stories, and selects interest tags like “Cultural Branding” and “Creative Collaboration.”
-
-Exploration: She browses the “Skill Visibility” feed, where short clips and posts from professionals like Korn appear. She finds his post on campaign storytelling insightful and follows him.
-
-Connection: Korn reaches out for a collab. She reviews his Connection Quality Score, mutual interests, and reads positive peer feedback. She accepts the chat.
-
-Growth: After the project, she receives a detailed review of her communication and visual delivery. She earns a “Collaborator Plus” badge and gets invited to a feedback circle with other creatives.
-
-Reflection: Inspired by the experience, she posts her own Skill Story — "Blending Tradition with Trend: My Design Philosophy" — which gets positive engagement and leads to more interest from aligned collaborators.
-
-Outcome:
-
-Natthida elevates her visibility, builds cross-disciplinary connections, and enhances her credibility — all while staying true to her creative values.
 
 
 # User Journey & Pain Points
