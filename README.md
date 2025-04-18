@@ -47,17 +47,17 @@ Use intelligent matching to surface meaningful connections without overwhelming 
 
 # Empathize
 
-<img src = "https://github.com/user-attachments/assets/dc5ca83c-e8a3-485f-beb9-97ccaf51c61f"/>
+
 
 <img src = "https://github.com/user-attachments/assets/30f38843-2236-42df-9434-54488f95939a"/>
-
+<img src = "https://github.com/user-attachments/assets/e5d84689-6dda-4a43-bc9d-bd72b9ee5c6e"/>
 
 # Define
 
-<img src = "https://github.com/user-attachments/assets/e5d84689-6dda-4a43-bc9d-bd72b9ee5c6e"/>
+
 <img src = "https://github.com/user-attachments/assets/f4f0e2ab-05d2-49f6-bbf6-f3d6600a3bda"/>
 <img src = "https://github.com/user-attachments/assets/ae7369ae-53a7-449f-afd6-bbcf5ca86c83"/>
-
+<img src = "https://github.com/user-attachments/assets/dc5ca83c-e8a3-485f-beb9-97ccaf51c61f"/>
 
 
 
