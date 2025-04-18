@@ -156,7 +156,7 @@ Use clean UI and personalization features (e.g., dark mode, layout preferences) 
 
 # User Scenario
 
-<img src = "https://github.com/user-attachments/assets/2ee30592-0574-4c71-bdb6-6386f181b03f"/>
+<img src = "https://github.com/user-attachments/assets/cfd086c8-b699-4aab-835b-a8310b328da1"/>
 
 <img src = "https://github.com/user-attachments/assets/670bfced-3cdb-45bc-beba-1158f9338214"/>
 
