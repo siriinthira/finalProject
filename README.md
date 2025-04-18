@@ -47,16 +47,16 @@ Use intelligent matching to surface meaningful connections without overwhelming 
 
 # Empathize
 
-<img src = "https://github.com/user-attachments/assets/31a99045-461b-4fe9-aa51-3dbb3a7b6fba"/>
+<img src = "https://github.com/user-attachments/assets/dc5ca83c-e8a3-485f-beb9-97ccaf51c61f"/>
 
-<img src = "https://github.com/user-attachments/assets/e22384fe-30d9-4b4c-9803-c141eb41ec8a"/>
+<img src = "https://github.com/user-attachments/assets/30f38843-2236-42df-9434-54488f95939a"/>
 
 
 # Define
 
-<img src = "https://github.com/user-attachments/assets/88a0d1a7-abce-48b8-b47d-a925abfc4ec8"/>
-<img src = "https://github.com/user-attachments/assets/a0bf0c93-d22f-42f8-9c29-b7ed017e6e8b"/>
-<img src = "https://github.com/user-attachments/assets/9f9ee4fd-c8a5-4126-a1ec-83cada14cd59"/>
+<img src = "https://github.com/user-attachments/assets/e5d84689-6dda-4a43-bc9d-bd72b9ee5c6e"/>
+<img src = "https://github.com/user-attachments/assets/f4f0e2ab-05d2-49f6-bbf6-f3d6600a3bda"/>
+<img src = "https://github.com/user-attachments/assets/ae7369ae-53a7-449f-afd6-bbcf5ca86c83"/>
 
 
 
