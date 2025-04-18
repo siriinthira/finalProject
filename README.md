@@ -47,84 +47,16 @@ Use intelligent matching to surface meaningful connections without overwhelming 
 
 # Empathize
 
-🎯 **Target Users**
+<img src = "https://github.com/user-attachments/assets/6c85b4ff-a197-41e5-b52d-2499b42626ea"/>
 
-SkillsX is designed for a diverse but focused user base that includes:
-
-**Young Professionals** – Seeking to build their network and grow skillsets.
-
-**Students & Recent Graduates** – Eager to find mentors, gain career insight, or connect with peers in similar learning journeys.
-
-**Lifelong Learners & Hobbyists** – Passionate about self-improvement and knowledge-sharing.
-
-🔍 **Key Insights from User Research**
-
-Based on preliminary interviews, surveys, and behavioral analysis, we uncovered the following insights:
-
-Users crave meaningful connections, not just more connections. They prefer relevance over volume.
-
-Reputation matters — users want to know who they're connecting with and whether someone is reliable or credible.
-
-Time is valuable — users want a frictionless way to assess whether someone is worth connecting with.
-
-Skill visibility is underutilized — users often have side skills or interests that don’t fit neatly into LinkedIn-like platforms.
-
-People want feedback — rating systems and constructive input were seen as ways to validate and improve one’s communication or collaboration skills.
+<img src = "https://github.com/user-attachments/assets/9974bae6-76c2-4f02-b50e-181ac90cd431"/>
 
 
 # Define
 
-🔍 **Problem Statements**
-
-Young Professionals need a way to form meaningful and relevant professional connections, because current platforms prioritize volume over quality.
-
-Students & Graduates need to discover trustworthy mentors and showcase their emerging skillsets, because they often feel overshadowed or invisible in traditional networks.
-
-Lifelong Learners & Hobbyists need a platform to share and discover niche skills, because mainstream platforms don’t surface these well.
-
-All users need a quick way to evaluate potential connections based on reputation and skill relevance, because their time is limited and precious.
-
-Users need a mechanism for constructive feedback and validation, to help them improve communication and collaboration in a safe environment.
-
-🧠 **User Needs**
-
-Authentic, high-signal networking.
-
-Credible, transparent reputation systems.
-
-Lightweight profiles that highlight skills beyond job titles.
-
-A fast “connection value preview” before engaging.
-
-Space for community-driven feedback and ratings.
-
-🎯 **Design Goals**
-
-These are focused on creating a smooth, intuitive, and meaningful user experience.
-
-Create a frictionless networking experience
-
-Enable users to find and connect with relevant people effortlessly.
-
-Design transparent and intuitive reputation feedback
-
-Build a rating system that feels fair, useful, and promotes trust.
-
-Highlight skill depth and diversity beyond job titles
-
-Allow users to showcase niche and side skills through modern profile components (e.g., skill cards, skill stories).
-
-Deliver fast, context-aware connection previews
-
-Use smart visuals (badges, tags, relevance scores) to help users assess connection value at a glance.
-
-Promote authentic interactions, not just quantity
-
-Prioritize design patterns that encourage meaningful messages and collaboration over shallow networking.
-
-Make the platform visually engaging but lightweight
-
-Use clean UI and personalization features (e.g., dark mode, layout preferences) to enhance usability.
+<img src = "https://github.com/user-attachments/assets/dd395f30-e34f-4da6-a676-ac86833531c5"/>
+<img src = "https://github.com/user-attachments/assets/b35703ca-72d8-4095-9ba2-d9b526895f68"/>
+<img src = "https://github.com/user-attachments/assets/2ae89109-c7c1-4d87-b8d2-85d6c312069e"/>
 
 
 
