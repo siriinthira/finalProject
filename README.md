@@ -81,35 +81,11 @@ Use intelligent matching to surface meaningful connections without overwhelming 
 
 # User Story
 
-🧑‍💼 User Story – Korn Rattanapong
+<img src = "https://github.com/user-attachments/assets/b5a48f99-c90a-4951-90cd-a1113d3f9d6c"/>
+<img src = "https://github.com/user-attachments/assets/7e7fd6c6-1fd9-4309-af21-812abc95fd3"/>
 
-As a freelance digital marketer,
-I want to find credible and creatively aligned collaborators,
-So that I can execute campaigns that reflect my storytelling values while building my reputation as a mentor and strategist.
-
-As a mentor, I want to share actionable advice and receive feedback, so I can improve how I support junior marketers.
-
-As a freelancer, I want to quickly assess someone’s reliability and skill match before collaborating, so I can save time and avoid mismatches.
-
-As a creative professional, I want to highlight both my work and my side interests (like photography), so I can build authentic connections beyond just my job title.
-
-As a networker, I want to be part of a community that values meaningful interaction over follower counts or likes.
-
-
-🎨 User Story – Natthida Kanchana
-
-As a graphic designer blending Thai tradition with modern design,
-I want to showcase my unique design philosophy and find collaborators who value cultural expression,
-So that I can work on more fulfilling projects and grow my creative influence.
-
-As a designer, I want to present my portfolio in a visually engaging way, so my unique style and influences stand out.
-
-As a creative professional, I want to connect with marketers who appreciate cultural nuance, so that the projects I work on feel aligned with my identity.
-
-As an emerging talent, I want to get constructive feedback on my work and communication, so I can grow professionally and confidently.
-
-As a freelancer, I want a platform that helps me filter out low-quality or misaligned projects early in the process.
-
+<img src = "https://github.com/user-attachments/assets/7a6c0f04-bb0e-4e4f-ab57-e8aecd2515e"/>
+<img src = "https://github.com/user-attachments/assets/16e85615-6324-4847-8b98-6410da692cd1"/>
 
 # User Journey & Pain Points
 
