@@ -81,11 +81,9 @@ Use intelligent matching to surface meaningful connections without overwhelming 
 
 # User Story
 
-<img src = "https://github.com/user-attachments/assets/b5a48f99-c90a-4951-90cd-a1113d3f9d6c"/>
-<img src = "https://github.com/user-attachments/assets/7e7fd6c6-1fd9-4309-af21-812abc95fd37"/>
+<img src = "https://github.com/user-attachments/assets/311a039c-b9db-47d5-ae73-898dddb63c98"/>
+<img src = "https://github.com/user-attachments/assets/25d006ea-02a4-4590-af4d-33c19680a798"/>
 
-<img src = "https://github.com/user-attachments/assets/7a6c0f04-bb0e-4e4f-ab57-e8aecd2515ef"/>
-<img src = "https://github.com/user-attachments/assets/16e85615-6324-4847-8b98-6410da692cd1"/>
 
 # User Journey & Pain Points
 
@@ -121,6 +119,23 @@ These journeys track the steps each persona takes while using SkillsX to reach t
 ------------------------------------------------------------------------------------
 
 # Usability Testing
+
+User Story
+As a freelance creative strategist and digital marketer, I want to quickly assess whether potential collaborators and projects align with my storytelling approach and quality standards, 
+so that I can invest my time in meaningful work and continue building my professional reputation as both a mentor and creator.
+
+Acceptance Criteria:
+
+- I can view collaborators’ portfolios, experience, and testimonials before reaching out or accepting invitations.
+
+- I can filter out low-quality or misaligned projects based on budget, tone, or creative freedom.
+
+- I can clearly showcase my marketing philosophy, campaigns, and mentorship work on my profile.
+
+- I can share tips or insights and receive feedback from the creative community or mentees.
+
+- I can track communication and collaboration history to identify reliable long-term partners.
+
 
 
 ------------------------------------------------------------------------------------
