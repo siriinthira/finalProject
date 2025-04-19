@@ -82,9 +82,9 @@ Use intelligent matching to surface meaningful connections without overwhelming 
 # User Story
 
 <img src = "https://github.com/user-attachments/assets/b5a48f99-c90a-4951-90cd-a1113d3f9d6c"/>
-<img src = "https://github.com/user-attachments/assets/7e7fd6c6-1fd9-4309-af21-812abc95fd3"/>
+<img src = "https://github.com/user-attachments/assets/7e7fd6c6-1fd9-4309-af21-812abc95fd37"/>
 
-<img src = "https://github.com/user-attachments/assets/7a6c0f04-bb0e-4e4f-ab57-e8aecd2515e"/>
+<img src = "https://github.com/user-attachments/assets/7a6c0f04-bb0e-4e4f-ab57-e8aecd2515ef"/>
 <img src = "https://github.com/user-attachments/assets/16e85615-6324-4847-8b98-6410da692cd1"/>
 
 # User Journey & Pain Points
