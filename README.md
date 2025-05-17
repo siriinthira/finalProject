@@ -48,21 +48,21 @@ Use intelligent matching to surface meaningful connections without overwhelming 
 # Empathize
 
 
+<img src ="https://github.com/user-attachments/assets/d4606d91-2465-4256-9812-5ef00135b4f4"/>
+<img src = "https://github.com/user-attachments/assets/3d7bc1f3-fb7c-41fc-b05c-dceec3903537"/>
 
-<img src = "https://github.com/user-attachments/assets/30f38843-2236-42df-9434-54488f95939a"/>
-<img src = "https://github.com/user-attachments/assets/e5d84689-6dda-4a43-bc9d-bd72b9ee5c6e"/>
 
 # Define
 
+<img src = "https://github.com/user-attachments/assets/5c6745d6-ba96-4549-a1a8-adffa9efba16"/>
+<img src = "https://github.com/user-attachments/assets/9e51725e-616c-4db2-924b-06ea22cb3483"/>
+<img src = "https://github.com/user-attachments/assets/71d8b909-c166-4cce-8baa-480130a8ed14"/>
 
-<img src = "https://github.com/user-attachments/assets/f4f0e2ab-05d2-49f6-bbf6-f3d6600a3bda"/>
-<img src = "https://github.com/user-attachments/assets/ae7369ae-53a7-449f-afd6-bbcf5ca86c83"/>
-<img src = "https://github.com/user-attachments/assets/dc5ca83c-e8a3-485f-beb9-97ccaf51c61f"/>
 
 # Ideate
+<img src = "https://github.com/user-attachments/assets/f178b5f0-f8ae-4570-91b4-895273b29a43"/>
+<img src ="https://github.com/user-attachments/assets/5e5ac5c7-f0a5-4ad3-b30b-c4cf8cecdc34"/>
 
-<img src ="https://github.com/user-attachments/assets/7c2ddd79-d45a-4ff1-8c2b-0bb631fb763e"/>
-<img src ="https://github.com/user-attachments/assets/f9ee2b50-ac47-48fe-8d4f-6edc4acda86e"/>
 
 
 # User Persona
