@@ -50,7 +50,6 @@ Use intelligent matching to surface meaningful connections without overwhelming 
 
 <img src ="https://github.com/user-attachments/assets/d4606d91-2465-4256-9812-5ef00135b4f4"/>
 <img src = "https://github.com/user-attachments/assets/3d7bc1f3-fb7c-41fc-b05c-dceec3903537"/>
-<img src = "https://github.com/user-attachments/assets/e8faf594-9b83-4cfa-ba2a-6b3c86d87312"/>
 
 
 # Define
