@@ -97,6 +97,17 @@ These journeys track the steps each persona takes while using SkillsX to reach t
 
 ------------------------------------------------------------------------------------
 
+
+# User Flow v2
+
+# Wireframe v2
+
+# Mockup v2
+
+# Prototype v2
+
+------------------------------------------------------------------------------------
+
 # Usability Testing
 
 User Story
@@ -116,17 +127,6 @@ Acceptance Criteria:
 - I can track communication and collaboration history to identify reliable long-term partners.
 
 
-
-------------------------------------------------------------------------------------
-
-
-# User Flow v2
-
-# Wireframe v2
-
-# Mockup v2
-
-# Prototype v2
 
 --------------------------------------------------------------------------
 # What I Learned
