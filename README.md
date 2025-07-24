@@ -77,11 +77,6 @@ These journeys track the steps each persona takes while using SkillsX to reach t
 
 ------------------------------------------------------------------------------------
 
-
-# User Flow v1
-
-# Wireframe v1
-
 # Mockup v1
 <p>
   <img src = "https://github.com/user-attachments/assets/aab3aa23-a03f-4022-9cc7-a039c26ff024"/>
