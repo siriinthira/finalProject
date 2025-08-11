@@ -69,7 +69,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 <img src = "https://github.com/user-attachments/assets/25d006ea-02a4-4590-af4d-33c19680a798"/>
 
 
-# User Journey & Pain Points
+# Journey Map & Pain Points
 
 🧭 USER JOURNEYS
 
