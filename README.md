@@ -9,8 +9,6 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 * Create a win-win deal for people to exchange their skills, knowledge, and experience based on their expertise. 
 
-* Enable continuous personal growth through feedback and skill tracking.
-
 * Encourage users to keep profiles updated, rate interaction quality and reflect on their progress.
 
 # 🧑‍🤝‍🧑 How it Works:
