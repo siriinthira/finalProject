@@ -29,7 +29,7 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 
 # Empathize
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a84b0f59-45f5-47c3-a112-211c758e9732" />
 <img src ="https://github.com/user-attachments/assets/d4606d91-2465-4256-9812-5ef00135b4f4"/>
 <img src = "https://github.com/user-attachments/assets/3d7bc1f3-fb7c-41fc-b05c-dceec3903537"/>
 
