@@ -95,7 +95,8 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 ------------------------------------------------------------------------------------
 
 # Prototype
-https://www.figma.com/proto/MYmuBSf5svalN2iFzVUVpC/Skills-X-Network?node-id=246-1439&p=f&t=M4YOQBRlBFPV1Yyr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A457&show-proto-sidebar=1
+
+https://www.figma.com/proto/MYmuBSf5svalN2iFzVUVpC/Skills-X-Network?node-id=4-37&p=f&t=4jRMMTYhNjZ3yKZq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A37&show-proto-sidebar=1
 
 Profile V2
 <img width="390" height="1640" alt="Image" src="https://github.com/user-attachments/assets/5b92417d-6cee-41cf-bba0-a82728d7bc53" />
