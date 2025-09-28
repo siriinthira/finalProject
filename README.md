@@ -87,18 +87,20 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
   <img src = "https://github.com/user-attachments/assets/493af292-76fd-4cdd-8092-09329f6a0286"/>
 </p>
 
-# Prototype v1
+# Prototype v1.0
 <p>
   <img src = "https://github.com/user-attachments/assets/d06abcf2-af98-464a-bf75-543fefe0bd2e"/>
 </p>
 
 ------------------------------------------------------------------------------------
 
-# Prototype
+# Prototype v1.1
 
 https://www.figma.com/proto/MYmuBSf5svalN2iFzVUVpC/Skills-X-Network?node-id=4-37&p=f&t=4jRMMTYhNjZ3yKZq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A37&show-proto-sidebar=1
 
-Profile V2
+------------------------------------------------------------------------------------
+
+# Profile v2.0
 <img width="390" height="1640" alt="Image" src="https://github.com/user-attachments/assets/5b92417d-6cee-41cf-bba0-a82728d7bc53" />
 
 ------------------------------------------------------------------------------------
