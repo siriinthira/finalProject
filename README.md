@@ -94,14 +94,9 @@ These journeys track the steps each persona takes while using SkillsX to reach t
 
 ------------------------------------------------------------------------------------
 
+# UserFlow
 
-# User Flow v2
-
-# Wireframe v2
-
-# Mockup v2
-
-# Prototype v2
+# Prototype
 
 ------------------------------------------------------------------------------------
 
