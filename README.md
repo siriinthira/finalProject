@@ -66,6 +66,26 @@ SkillsX is an app prototype that combines networking, knowledge-sharing, and per
 <img src = "https://github.com/user-attachments/assets/25d006ea-02a4-4590-af4d-33c19680a798"/>
 
 
+User Story
+As a freelance creative strategist and digital marketer, I want to quickly assess whether potential collaborators and projects align with my storytelling approach and quality standards, 
+so that I can invest my time in meaningful work and continue building my professional reputation as both a mentor and creator.
+
+Acceptance Criteria:
+
+- I can view collaborators’ portfolios, experience, and testimonials before reaching out or accepting invitations.
+
+- I can filter out low-quality or misaligned projects based on budget, tone, or creative freedom.
+
+- I can clearly showcase my marketing philosophy, campaigns, and mentorship work on my profile.
+
+- I can share tips or insights and receive feedback from the creative community or mentees.
+
+- I can track communication and collaboration history to identify reliable long-term partners.
+
+
+--------------------------------------------------------------------------
+
+
 # Journey Map & Pain Points
 
 🧭 USER JOURNEYS
@@ -107,26 +127,70 @@ https://www.figma.com/proto/MYmuBSf5svalN2iFzVUVpC/Skills-X-Network?node-id=4-37
 
 # Usability Testing Feedback
 
-User Story
-As a freelance creative strategist and digital marketer, I want to quickly assess whether potential collaborators and projects align with my storytelling approach and quality standards, 
-so that I can invest my time in meaningful work and continue building my professional reputation as both a mentor and creator.
+1. Onboarding & Message Notification
 
-Acceptance Criteria:
+Users are skeptical when opening new chat requests due to lack of context.
 
-- I can view collaborators’ portfolios, experience, and testimonials before reaching out or accepting invitations.
+Unrelated or irrelevant chat requests waste time and lower engagement.
 
-- I can filter out low-quality or misaligned projects based on budget, tone, or creative freedom.
+Suggested Fixes:
 
-- I can clearly showcase my marketing philosophy, campaigns, and mentorship work on my profile.
+Add “match score” or skill tags preview in notifications.
 
-- I can share tips or insights and receive feedback from the creative community or mentees.
+Let users filter or prioritize incoming requests.
 
-- I can track communication and collaboration history to identify reliable long-term partners.
+2. Viewing Profiles & Portfolio
 
+Profile pages load slowly and do not clearly showcase experience or relevance.
 
+Lack of trust-building elements such as client reviews or mutual connections.
 
---------------------------------------------------------------------------
-# What I Learned
+Suggested Fixes:
+
+Expand portfolio previews with case studies or blurbs.
+
+Highlight reputation badges and shared collaborations.
+
+3. Chat Interaction & Collaboration Decision
+
+Starting the conversation feels awkward; tone and vibe are hard to gauge.
+
+Uncertainty about availability and expectations during initial messages.
+
+Suggested Fixes:
+
+Introduce icebreaker prompts or starter questions.
+
+Display online status and suggest conversation topics based on shared skills.
+
+4. Project Collaboration
+
+Large file uploads are inconvenient or unsupported.
+
+Users must switch between tools, causing friction in workflow.
+
+Design feedback is hard to give and track visually.
+
+Suggested Fixes:
+
+Allow larger file uploads directly on the platform.
+
+Add version control and visual feedback tools for design files.
+
+5. Outcome Sharing & Recognition
+
+Hard to showcase final project outcomes.
+
+Posting and promoting badges or results is time-consuming.
+
+Suggested Fixes:
+
+Auto-generate “Collaboration Showcases” based on projects.
+
+One-click share options for LinkedIn and Instagram.
+
+Add analytics for how often badges are viewed or clicked.
+
 
 --------------------------------------------------------------------------
 
