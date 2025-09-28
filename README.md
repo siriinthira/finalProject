@@ -97,6 +97,7 @@ These journeys track the steps each persona takes while using SkillsX to reach t
 # UserFlow
 
 # Prototype
+https://www.figma.com/design/MYmuBSf5svalN2iFzVUVpC/Skills-X-Network?node-id=0-1&p=f&t=BbDfCcG9bB8a3WQE-0
 
 ------------------------------------------------------------------------------------
 
